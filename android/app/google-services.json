@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371250117089",
+    "project_id": "noteapp-flutte-shubhang",
+    "storage_bucket": "noteapp-flutte-shubhang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371250117089:android:8dec3a0debfe612e803aa0",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371250117089-5th3uel12cpb08nfp82pk5aihvss4n90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGemNhqmUS4bEGsw6HdqZdmA1dTlEi9-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371250117089-5th3uel12cpb08nfp82pk5aihvss4n90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
