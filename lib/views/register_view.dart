@@ -3,6 +3,8 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:notes_app/firebase_options.dart';
 
+//this is a testing comment.
+
 class RegisterView extends StatefulWidget {
   const RegisterView({super.key});
 
